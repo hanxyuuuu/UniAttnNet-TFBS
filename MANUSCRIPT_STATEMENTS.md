@@ -4,7 +4,7 @@
 
 The UniAttnNet-TFBS standalone source code and the trained model checkpoint are publicly available at:
 
-`https://github.com/<YOUR_GITHUB_USERNAME>/UniAttnNet-TFBS`
+`https://github.com/hanxyuuuu/UniAttnNet-TFBS`
 
 For versioned citation in the manuscript, replace the link above with the tagged release URL after creating a GitHub release (for example, `v1.0.0`).
 
