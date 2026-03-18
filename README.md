@@ -94,7 +94,7 @@ Only a public subset / example data should be uploaded to the repository. If the
 
 ### Code availability
 
-The trained model and the UniAttnNet-TFBS standalone source code are available at: `https://github.com/<YOUR_GITHUB_USERNAME>/UniAttnNet-TFBS`.
+The trained model and the UniAttnNet-TFBS standalone source code are available at: `https://github.com/hanxyuuuu/UniAttnNet-TFBS`.
 
 ### Data availability
 
